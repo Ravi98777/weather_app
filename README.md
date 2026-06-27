@@ -155,24 +155,21 @@ For cities with identical names, include a country code—for example, `London, 
 
 ## 📸 Screenshots
 
-### 🏠 Weather Search Result 1
+### 🏠 Main Interface
 
 ![Weather App search result 1 ](img2.png)
 
-### 🌧️  Weather Search Result 2
+### 🌧️ Weather Search Result
 
 ![Weather App search result 2 ](img1)
 
-### 🌧️  Weather Search Result 3
-
-![Weather App search result 3 ](img3.png)
-
-
-### 🌧️   Demonstration
-
-![Weather App search result 4](weather_app_demo.mp4)
-
 > Create a `screenshots` folder and save the images as `weather-app.png` and `weather-result.png` to display them here.
+
+## 🎬 Demo Video
+
+[▶️ Watch the Weather App demonstration](weather_app_demo.mp4)
+
+> The video file must be named exactly `weather_app_demo.mp4` and stored in the same directory as this README.
 
 ## 🔐 Security and Configuration
 
@@ -219,4 +216,3 @@ Created as a frontend development project demonstrating API integration, asynchr
 ## 📄 License
 
 This project is intended for educational and personal use. Add a `LICENSE` file before distributing it under a specific open-source license.
-
