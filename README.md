@@ -169,8 +169,6 @@ For cities with identical names, include a country code—for example, `London, 
 
 [▶️ Watch the Weather App demonstration](weather_app_demo.mp4)
 
-> The video file must be named exactly `weather_app_demo.mp4` and stored in the same directory as this README.
-
 ## 🔐 Security and Configuration
 
 The current project sends requests directly from frontend JavaScript, which makes the API key visible to browser users. Before a public production deployment:
