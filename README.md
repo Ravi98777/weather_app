@@ -167,6 +167,11 @@ For cities with identical names, include a country code—for example, `London, 
 
 ![Weather App search result 3 ](img3.png)
 
+
+### 🌧️   Demonstration
+
+![Weather App search](weather_app_demo.mp4)
+
 > Create a `screenshots` folder and save the images as `weather-app.png` and `weather-result.png` to display them here.
 
 ## 🔐 Security and Configuration
