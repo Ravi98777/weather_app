@@ -155,11 +155,11 @@ For cities with identical names, include a country code—for example, `London, 
 
 ## 📸 Screenshots
 
-### 🏠 Main Interface
+### 🏠 Weather Search Result 1
 
 ![Weather App search result 1 ](img2.png)
 
-### 🌧️ Weather Search Result
+### 🌧️  Weather Search Result 2
 
 ![Weather App search result 2 ](img1)
 
